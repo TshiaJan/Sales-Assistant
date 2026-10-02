@@ -67,5 +67,5 @@ We may periodically revise this Privacy Policy to reflect application updates, r
 If you have questions, feedback, or inquiries regarding this Privacy Policy or our local data practices, please contact:
 
 **Developer:** Tshiamo Jantjie  
-**Email:** [tshiajan@gmail.com](mailto:tshiajan@gmail.com)  
+**Email:** [janairedev@gmail.com](mailto:tshiajan@gmail.com)  
 **Hosted Policy Repository:** [https://tshiajan.github.io/ai-sales-assistant-privacy/](https://tshiajan.github.io/ai-sales-assistant-privacy/)
